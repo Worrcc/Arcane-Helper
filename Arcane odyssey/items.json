@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Atlantean Essence",
+        "image": "Atlantean.png",
+        "enabled": true
+    },
+    {
+        "name": "Tidestone",
+        "image": "Tidestone.png",
+        "enabled": true
+    },
+    {
+        "name": "Prometheus Acrimony",
+        "image": "Prometheus_Acrimony.png",
+        "enabled": true
+    }
+]
